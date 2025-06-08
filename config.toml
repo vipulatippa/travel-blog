@@ -1,1 +1,28 @@
-theme = "ananke"
+baseURL = 'https://ubiquitous-palmier-59f343.netlify.app/'
+languageCode = 'en-us'
+title = 'Exploring Code, Culture & Beyond'
+theme = 'ananke'
+
+[params]
+  description = "A digital space where technology meets wanderlust"
+  author = "Vipula Tippa Supkear"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tech & Research"
+  url = "/tech/"
+  weight = 20
+
+[[menu.main]]
+  name = "Travel Adventures"
+  url = "/travel/"
+  weight = 30
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 40

@@ -1,0 +1,38 @@
+// Custom button styling for category links
+.category-button {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  margin: 10px 0;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    color: white;
+    text-decoration: none;
+  }
+}
+
+// Travel category button - green theme
+a[href="/travel/"] {
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+}
+
+// Tech category button - blue theme
+a[href="/tech/"] {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+// Homepage sections styling
+.homepage-section {
+  background: #f8f9fa;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 12px;
+  border-left: 4px solid #667eea;
+}
