@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First-Time on My New Hugo Site</title>
-    <link>http://localhost:63424/tags/first-time/</link>
+    <link>http://localhost:1313/tags/first-time/</link>
     <description>Recent content in First-Time on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63424/tags/first-time/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/first-time/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emerald Isle Dreaming: A First-Time Irish Adventure</title>
-      <link>http://localhost:63424/blog/emerald-isle-dreaming/</link>
+      <link>http://localhost:1313/blog/emerald-isle-dreaming/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63424/blog/emerald-isle-dreaming/</guid>
+      <guid>http://localhost:1313/blog/emerald-isle-dreaming/</guid>
       <description>&lt;h2 id=&#34;emerald-isle-dreaming-a-first-time-irish-adventure&#34;&gt;Emerald Isle Dreaming: A First-Time Irish Adventure&lt;/h2&gt;&#xA;&lt;p&gt;Ireland is a land of stunning landscapes, rich history, and warm hospitality. Cobblestone streets, vibrant pubs, and verdant hillsides — it was like stepping into a postcard. Whether you&amp;rsquo;re drawn to ancient castles, lively pub culture, or breathtaking coastal drives, Ireland has it all.&lt;/p&gt;&#xA;&lt;p&gt;This guide will help you navigate the country with ease, highlighting transport options, landmarks, and iconic pubs to soak in the Irish spirit.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,6 +2,7 @@
 title: "Emerald Isle Dreaming: A First-Time Irish Adventure"
 date: 2025-06-01
 draft: false
+author: "Vipula Tippa Supekar"
 tags: ["Ireland", "Travel", "First-Time", "Europe", "Itinerary"]
 categories: ["Travel Blog"]
 ---
