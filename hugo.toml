@@ -1,5 +1,169 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://your-site.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Exploring Code, Culture & Beyond'
+theme = 'PaperMod'
 
+enableEmoji = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Exploring Code, Culture & Beyond"
+description = "A digital space where technology meets wanderlust - exploring data science, machine learning, and global adventures"
+keywords = ["Blog", "Tech", "Travel", "Data Science", "Machine Learning", "Adventures"]
+author = "Vipula Tippa"
+images = [""]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+[params.profileMode]
+enabled = true
+title = "Hi there! 👋"
+subtitle = "Welcome to my digital space where technology meets wanderlust. I'm passionate about data science, machine learning, and exploring the world one destination at a time."
+imageUrl = ""
+imageWidth = 120
+imageHeight = 120
+imageTitle = ""
+
+[[params.profileMode.buttons]]
+name = "Tech & Research"
+url = "/tech"
+
+[[params.profileMode.buttons]]
+name = "Travel Adventures"
+url = "/travel"
+
+[[params.profileMode.buttons]]
+name = "Self-Care & Wellness"
+url = "/self-care"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/vipulatippa"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://youtube.com/@vipulatippa2085"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/vipula-tippa"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:vipulatippasupekar@gmail.com"
+
+[params.assets]
+favicon = ""
+favicon16x16 = ""
+favicon32x32 = ""
+apple_touch_icon = ""
+safari_pinned_tab = ""
+
+[params.label]
+text = "Exploring Code, Culture & Beyond"
+icon = ""
+iconHeight = 35
+
+[params.analytics.google]
+SiteVerificationTag = ""
+
+[params.analytics.bing]
+SiteVerificationTag = ""
+
+[params.analytics.yandex]
+SiteVerificationTag = ""
+
+[params.cover]
+hidden = true
+hiddenInList = true
+hiddenInSingle = true
+
+[params.editPost]
+URL = ""
+Text = ""
+appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "tech"
+name = "Tech & Research"
+url = "/tech/"
+weight = 20
+
+[[menu.main]]
+identifier = "travel"
+name = "Travel Adventures"
+url = "/travel/"
+weight = 30
+
+[[menu.main]]
+identifier = "selfcare"
+name = "Self-Care"
+url = "/self-care/"
+weight = 35
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 40
+
+[[menu.main]]
+identifier = "archives"
+name = "Archive"
+url = "/archives/"
+weight = 50
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "github"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

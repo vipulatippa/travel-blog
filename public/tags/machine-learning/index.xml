@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Machine-Learning on My New Hugo Site</title>
+    <title>Machine-Learning on Exploring Code, Culture &amp; Beyond</title>
     <link>http://localhost:1313/tags/machine-learning/</link>
-    <description>Recent content in Machine-Learning on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Machine-Learning on Exploring Code, Culture &amp; Beyond</description>
+    <image>
+      <title>Exploring Code, Culture &amp; Beyond</title>
+      <url>http://localhost:1313/</url>
+      <link>http://localhost:1313/</link>
+    </image>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jun 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enhancing Book Recommendations with Jaccard Similarity: My Thesis Project</title>
-      <link>http://localhost:1313/blog/thesis-jaccard-similarity/</link>
+      <link>http://localhost:1313/tech/thesis-jaccard-similarity/</link>
       <pubDate>Sun, 08 Jun 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/thesis-jaccard-similarity/</guid>
-      <description>&lt;p&gt;In the world of personalized recommendations, systems that suggest books, movies, or music based on user preferences have become a central part of the digital experience. One of the core techniques used to achieve these recommendations is Jaccard Similarity, which helps measure the similarity between users based on their ratings.&lt;/p&gt;&#xA;&lt;p&gt;In this article, I will walk you through how I used Jaccard Similarity in my thesis project to build a book recommendation system based on users&amp;rsquo; average ratings. While the code and a detailed walkthrough are available on my GitHub and YouTube, this blog will focus on explaining the steps I took and the rationale behind them.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/tech/thesis-jaccard-similarity/</guid>
+      <description>How I used Jaccard Similarity in my thesis project to build a personalized book recommendation system based on users&amp;#39; average ratings.</description>
     </item>
   </channel>
 </rss>

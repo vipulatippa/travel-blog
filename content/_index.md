@@ -30,6 +30,15 @@ Join me as I explore hidden gems, share authentic local experiences, and provide
 
 ---
 
+## 🌸 **Self-Care & Wellness**
+*Practical health tips, skincare routines, and wellness strategies for busy professionals*
+
+Real-world advice for maintaining physical and mental health while managing a hectic lifestyle. From nutrition to mindfulness—all designed for actual busy people.
+
+[**Explore Wellness Tips →**](/self-care/)
+
+---
+
 ## Recent Posts
 
 *Latest updates from both worlds:*
