@@ -2,7 +2,7 @@
 title: "Glow & Grow: Healthy Vegetarian Living Tips for Busy Indian Women in Their 30s"
 date: 2025-06-09T14:00:00Z
 draft: false
-author: "Your Name"
+author: "Vipula Tippa"
 tags: ["health", "vegetarian", "skincare", "wellness", "lifestyle", "self-care", "nutrition"]
 categories: ["Self-Care", "Health"]
 description: "A practical guide to maintaining a healthy vegetarian diet, skincare routine, and exercise habits that fit into a busy corporate schedule for Indian women in their 30s."
