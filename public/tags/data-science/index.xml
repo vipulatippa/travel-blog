@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jun 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 16:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python for Freshers: Top 14 Beginner-Friendly Libraries You Should Master</title>
+      <link>http://localhost:1313/tech/python-libraries-for-beginners/</link>
+      <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/python-libraries-for-beginners/</guid>
+      <description>A comprehensive guide to 14 essential Python libraries that every beginner should master, complete with code examples and practical use cases.</description>
+    </item>
     <item>
       <title>Enhancing Book Recommendations with Jaccard Similarity: My Thesis Project</title>
       <link>http://localhost:1313/tech/thesis-jaccard-similarity/</link>
