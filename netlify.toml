@@ -1,0 +1,10 @@
+[build]
+  command = "hugo --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.147.7"
+  NODE_VERSION = "18"
+
+[context.production.environment]
+  HUGO_ENV = "production"
