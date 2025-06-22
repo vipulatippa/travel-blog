@@ -2,7 +2,7 @@
 title: "Python for Freshers: Top 14 Beginner-Friendly Libraries You Should Master"
 date: 2025-06-10T16:00:00Z
 draft: false
-author: "Vipula Tippa Supekar"
+author: "Your Name"
 tags: ["python", "programming", "beginners", "libraries", "data-science", "machine-learning", "tutorial"]
 categories: ["Tech", "Programming"]
 description: "A comprehensive guide to 14 essential Python libraries that every beginner should master, complete with code examples and practical use cases."
@@ -59,7 +59,7 @@ print("Pi value:", math.pi)
 print("Cosine of 0:", math.cos(0))
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Square root of 64: 8.0
 Pi value: 3.141592653589793
@@ -79,7 +79,7 @@ print("Random number (1-10):", random.randint(1, 10))
 print("Random choice from a list:", random.choice(['apple', 'banana', 'cherry']))
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Random number (1-10): 7
 Random choice from a list: banana
@@ -102,7 +102,7 @@ age = now.year - birth_year
 print("Your age is:", age)
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Today is: Sunday, 08 June 2025
 Your age is: 30
@@ -126,7 +126,7 @@ df = pd.DataFrame(data)
 print(df)
 ```
 
-**📤 Output:**
+**Output:**
 ```
       Name  Age
 0    Alice   25
@@ -181,7 +181,7 @@ print("Mean:", np.mean(arr))
 print("Standard Deviation:", np.std(arr))
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Original array: [1 2 3 4 5]
 Mean: 3.0
@@ -207,7 +207,7 @@ print("Status Code:", response.status_code)
 print("Headers:", response.headers['content-type'])
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Status Code: 200
 Headers: application/json; charset=utf-8
@@ -236,7 +236,7 @@ else:
     print("Invalid Email.")
 ```
 
-**📤 Output:**
+**Output:**
 ```
 Valid Email!
 ```
@@ -275,7 +275,7 @@ print("Current Directory:", os.getcwd())
 print("Files in this folder:", os.listdir())
 ```
 
-**📤 Output (sample):**
+**Output (sample):**
 ```
 Current Directory: /Users/myname/Documents
 Files in this folder: ['notes.txt', 'image.png', 'script.py']
@@ -332,7 +332,7 @@ mae = mean_absolute_error(y_test, predictions)
 print("MAE:", mae)
 ```
 
-**📤 Output:**
+**Output:**
 ```
 MAE: 2.13 (sample output depending on dataset split)
 ```
@@ -355,7 +355,7 @@ mse = mean_squared_error(y_test, predictions)
 print("MSE:", mse)
 ```
 
-**📤 Output:**
+**Output:**
 ```
 MSE: 8.45 (example output)
 ```
@@ -384,7 +384,7 @@ predictions = model.predict(X_test)
 print("First 5 Predictions:", predictions[:5])
 ```
 
-**📤 Output:**
+**Output:**
 ```
 First 5 Predictions: [18.67 22.13 14.25 19.99 28.11]
 ```
@@ -439,6 +439,6 @@ Remember:
 
 ---
 
-**🚀 Ready to start coding?** Pick one library from this list and spend 30 minutes experimenting with it
+**🚀 Ready to start coding?** Pick one library from this list and spend 30 minutes experimenting with it. The best way to learn is by doing!
 
 **💬 Questions or suggestions?** Drop a comment below and let me know which library you're most excited to try!
