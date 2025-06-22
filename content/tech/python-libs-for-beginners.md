@@ -439,6 +439,6 @@ Remember:
 
 ---
 
-**🚀 Ready to start coding?** Pick one library from this list and spend 30 minutes experimenting with it. The best way to learn is by doing!
+**🚀 Ready to start coding?** Pick one library from this list and spend 30 minutes experimenting with it
 
 **💬 Questions or suggestions?** Drop a comment below and let me know which library you're most excited to try!
