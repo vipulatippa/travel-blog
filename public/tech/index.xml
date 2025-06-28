@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📘 Chapter 1: Forecasting Wind Power with LSTM – Project Setup and Overview</title>
+      <link>http://localhost:1313/tech/wind-power-forecasting-lstm-chapter1/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/wind-power-forecasting-lstm-chapter1/</guid>
+      <description>Learn how to forecast wind power using LSTM neural networks. This comprehensive guide covers project setup, environment configuration, and an overview of building a complete ML pipeline for renewable energy prediction.</description>
+    </item>
     <item>
       <title>Python for Freshers: Top 14 Beginner-Friendly Libraries You Should Master</title>
       <link>http://localhost:1313/tech/python-libs-for-beginners/</link>

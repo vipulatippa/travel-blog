@@ -2,22 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/beginners/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tech/wind-power-forecasting-lstm-chapter1/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forecasting/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lstm/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/machine-learning/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/renewable-energy/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tech/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tensorflow/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/time-series/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wind-power/</loc>
+    <lastmod>2025-06-11T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/beginners/</loc>
     <lastmod>2025-06-10T16:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data-science/</loc>
     <lastmod>2025-06-10T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/libraries/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2025-06-10T16:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/programming/</loc>
@@ -26,19 +65,7 @@
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2025-06-10T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tech/python-libs-for-beginners/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
-    <lastmod>2025-06-10T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tech/</loc>
     <lastmod>2025-06-10T16:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tutorial/</loc>

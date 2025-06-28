@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Python on Exploring Code, Culture &amp; Beyond</title>
-    <link>http://localhost:1313/tags/python/</link>
-    <description>Recent content in Python on Exploring Code, Culture &amp; Beyond</description>
+    <title>Machine Learning on Exploring Code, Culture &amp; Beyond</title>
+    <link>http://localhost:1313/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Exploring Code, Culture &amp; Beyond</description>
     <image>
       <title>Exploring Code, Culture &amp; Beyond</title>
       <url>http://localhost:1313/</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jun 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📘 Chapter 1: Forecasting Wind Power with LSTM – Project Setup and Overview</title>
       <link>http://localhost:1313/tech/wind-power-forecasting-lstm-chapter1/</link>
       <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tech/wind-power-forecasting-lstm-chapter1/</guid>
       <description>Learn how to forecast wind power using LSTM neural networks. This comprehensive guide covers project setup, environment configuration, and an overview of building a complete ML pipeline for renewable energy prediction.</description>
-    </item>
-    <item>
-      <title>Python for Freshers: Top 14 Beginner-Friendly Libraries You Should Master</title>
-      <link>http://localhost:1313/tech/python-libs-for-beginners/</link>
-      <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/python-libs-for-beginners/</guid>
-      <description>A comprehensive guide to 14 essential Python libraries that every beginner should master, complete with code examples and practical use cases.</description>
     </item>
   </channel>
 </rss>

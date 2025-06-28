@@ -11,8 +11,71 @@
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep-Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forecasting</title>
+      <link>http://localhost:1313/tags/forecasting/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lstm</title>
+      <link>http://localhost:1313/tags/lstm/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lstm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine-Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renewable-Energy</title>
+      <link>http://localhost:1313/tags/renewable-energy/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tensorflow</title>
+      <link>http://localhost:1313/tags/tensorflow/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Series</title>
+      <link>http://localhost:1313/tags/time-series/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wind-Power</title>
+      <link>http://localhost:1313/tags/wind-power/</link>
+      <pubDate>Wed, 11 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wind-power/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Beginners</title>
       <link>http://localhost:1313/tags/beginners/</link>
@@ -35,24 +98,10 @@
       <description></description>
     </item>
     <item>
-      <title>Machine-Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Programming</title>
       <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Tue, 10 Jun 2025 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     <item>
